@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oofahnaem.boundlabs.com/sitemap.xml
